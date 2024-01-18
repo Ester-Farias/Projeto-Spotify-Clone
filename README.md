@@ -33,7 +33,7 @@ Projeto realizado com base em uma atividade do curso Desenvolvimento Web complet
 
 ```bash
     #Enter directory
-    $ cd Projeto-Finans
+    $ cd Projeto-Spotify-Clone
 ```
 
 ```bash
